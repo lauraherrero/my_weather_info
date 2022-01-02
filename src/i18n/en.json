@@ -1,0 +1,9 @@
+{
+  "title": "Weather Info App ",
+  "minTemp": "Min Temp",
+  "maxTemp": "Max Temp",
+  "currentConditions": "Current Conditions",
+  "noData": "No data",
+  "noLoaded": "Not loaded yet",
+  "btnTraslate": "En"
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Aplicación Informativa del Tiempo ",
+  "minTemp": "Temp min",
+  "maxTemp": "Temp máx",
+  "currentConditions": "Condiciones actuales",
+  "noData": "Sin datos",
+  "noLoaded": "Aún no se ha cargado",
+  "btnTraslate": "Es"
+}
