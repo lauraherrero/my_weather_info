@@ -56,8 +56,8 @@ class WeatherApp extends Component {
     }
     return (
         <div className = "weatherApp hero" style={{textAlign: "center", height: "100vh"}}>
-          <ButtonTranslate />
           <Title />
+          <ButtonTranslate />
           <div>
             <CitiesContainer
               fetchDataClick= {this.callFetchData}
