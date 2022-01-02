@@ -41,7 +41,7 @@ export class CitiesContainer extends Component {
     );
 
     return (
-      <div style={{padding: "40px"}}>
+      <div style={{padding: "0 0 10px"}}>
         <ul>
           { cities }
         </ul>

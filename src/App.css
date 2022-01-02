@@ -10,7 +10,7 @@ h1 {
   text-align: center;
   color:  #0059b3;
   font-weight: bold;
-  margin: 50px;
+  margin: 35px;
   font-size: 80px;
   font-family: 'Montserrat', sans-serif;
   font-weight: 100;
@@ -20,7 +20,8 @@ h2 {
   text-align: center;
   color:  black;
   font-weight: bold;
-  font-size: 50px;
+  font-size: 40px;
+  margin: 0;
 }
 
 p {
@@ -82,8 +83,7 @@ p {
   border-radius: 10px;
   position: relative;
   width: 600px;
-  height: 450px;
-  line-height: 30px;
+  height: 350px;
   padding: 6px 6px;
   background-image: linear-gradient(to right top, #d8aee9, #dab3ea, #ddb9eb, #dfbeec, #e1c3ed, #e3caf0, #e5d1f2, #e8d8f4, #ece2f8, #f1ecfb, #f8f6fd, #ffffff);
 }
@@ -119,7 +119,7 @@ p {
   width: 80px;
   height: 80px;
   padding: 10px;
-  margin-top: 40px;
+  margin-top: 20px;
 }
 .image-icon {
   background-color: lightskyblue;
