@@ -15,7 +15,7 @@ function  Button () {
   };
   return(
   <div>
-    <button onClick={onChangeLanguaje}>
+    <button className="btn-traslate" onClick={onChangeLanguaje}>
       {t('btnTraslate')}
     </button>
   </div>
