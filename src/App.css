@@ -24,6 +24,10 @@ h2 {
   margin: 0;
 }
 
+h3 {
+  margin: 0 0 5px;
+}
+
 p {
   text-align: center;
   color:  #0059b3;
